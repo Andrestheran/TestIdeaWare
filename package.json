@@ -1,0 +1,15 @@
+{
+    "name": "test-ideaware",
+    "version": "1.0.0",
+    "description": "Prueba tecnica frontend de Ideaware",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andres Theran",
+    "license": "MIT",
+    "devDependencies": {
+      "tailwindcss": "^3.0.23"
+    }
+  }
+  
